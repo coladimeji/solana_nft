@@ -1,0 +1,28 @@
+{ 
+
+        "name": "Biker", 
+        "symbol": "BIK",
+    
+        "description": "My NFT collection total 3 on the blockchain. This the 3/3 images ", 
+    "seller_fee_basis_points": 500,
+            "image": "2.png", 
+    
+        "attributes": [ 
+    { "trait_type": "Layer-1", "value": "0"},
+    { "trait_type": "Layer-2", "value": "0"},
+    { "trait_type": "Layer-3", "value": "0"},
+    { "trait_type": "Layer-4", "value": "1"}
+    
+    ],
+     "properties": { 
+         "creators":[{"address": "9LKns8bGXRx7rs8a85AzePs2SNM7iTSJpmCgFECQwmZ1" 
+       
+    
+                    
+    }
+    ],
+            "files": [{ "uri": "2.png", "type": "image/png" }]
+    },
+    "collection": { "name": "numbers", "family": "numbers" }
+    
+    }
